@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/plS4h0O.jpg)](https://kieran.app)
+[![MasterHead](https://i.imgur.com/PPkkAez.jpg)](https://kieran.app)
 ### Hi there 👋
 
 <!--
