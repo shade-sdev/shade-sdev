@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/PPkkAez.jpg)](https://kieran.app)
+[![MasterHead](https://i.imgur.com/PPkkAez.jpg)]([https://kieran.app](https://github.com/shade-sdev))
 ### Hi there 👋
 
 <!--
