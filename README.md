@@ -8,7 +8,6 @@ I'm a passionate developer with a love for solving problems and building innovat
 - 🔭 I’m currently working on various open-source projects.
 - 👯 I’m looking to collaborate on interesting and impactful projects.
 - 💬 Ask me about Java, Kotlin, .NET and full-stack development.
-- 📫 How to reach me: [shade@example.com](mailto:shade@example.com)
 - ⚡ Fun fact: I gaming in my free time.
 
 ## 🛠 Technologies & Tools
@@ -24,7 +23,7 @@ I'm a passionate developer with a love for solving problems and building innovat
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shade-sdev&SecVault&theme=radical)](https://github.com/shade-sdev/SecVault)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shade-sdev&repo=SecVault&theme=radical)](https://github.com/shade-sdev/SecVault)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shade-sdev&repo=ShadeTorrent&theme=radical)](https://github.com/shade-sdev/ShadeTorrent)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
