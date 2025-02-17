@@ -8,7 +8,7 @@ I'm a passionate developer with a love for solving problems and building innovat
 - 🔭 I’m currently working on various open-source projects.
 - 👯 I’m looking to collaborate on interesting and impactful projects.
 - 💬 Ask me about Java, Kotlin, .NET and full-stack development.
-- ⚡ Fun fact: I gaming in my free time.
+- ⚡ Fun fact: I love gaming in my free time.
 
 ## 🛠 Technologies & Tools
 
