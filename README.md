@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/PPkkAez.jpg)]([https://kieran.app](https://github.com/shade-sdev))
+[![MasterHead](https://i.imgur.com/PPkkAez.jpg)]([https://kieran.app](https://github.com/shade-sdev)](https://github.com/shade-sdev))
 # Hi there, I'm Shade! 👋
 
 I'm a passionate developer with a love for solving problems and building innovative solutions. Welcome to my GitHub profile!
