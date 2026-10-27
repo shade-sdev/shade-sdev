@@ -23,8 +23,8 @@ I'm a passionate developer with a love for solving problems and building innovat
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shade-sdev&repo=SecVault&theme=radical)](https://github.com/shade-sdev/SecVault)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shade-sdev&repo=ShadeTorrent&theme=radical)](https://github.com/shade-sdev/ShadeTorrent)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shade-sdev&repo=ShadeNetDownloader&theme=radical)](https://github.com/shade-sdev/ShadeNetDownloader)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shade-sdev&repo=Shalarm&theme=radical)](https://github.com/shade-sdev/Shalarm)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
